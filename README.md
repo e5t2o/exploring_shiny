@@ -1,3 +1,3 @@
 # exploring_shiny
 
-This Repo is a sampling of some of my current projects including those using the R package shiny. 
+This Repo was generated for a project with UNICEF Indonesia to make interactive data visualisations with R's shiny package.  
